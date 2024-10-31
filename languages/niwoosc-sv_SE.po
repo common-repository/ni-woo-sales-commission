@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ni Sales Commission For WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-24 05:59+0000\n"
+"PO-Revision-Date: 2020-09-24 06:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: includes/niwoosc-commission-report.php:15 includes/niwoosc-core.php:124
+#: includes/niwoosc-core.php:125
+msgid "Commission Report"
+msgstr "Rapport från kommissionen"
+
+#: includes/niwoosc-commission-report.php:23
+#: includes/niwoosc-order-report.php:19
+msgid "Order Period"
+msgstr "Beställningsperiod"
+
+#: includes/niwoosc-commission-report.php:26
+#: includes/niwoosc-order-report.php:22
+msgid "Today"
+msgstr "I dag"
+
+#: includes/niwoosc-commission-report.php:27
+#: includes/niwoosc-order-report.php:23
+msgid "Yesterday"
+msgstr "I går"
+
+#: includes/niwoosc-commission-report.php:28
+#: includes/niwoosc-order-report.php:24
+msgid "Last 7 days"
+msgstr "De senaste sju dagarna"
+
+#: includes/niwoosc-commission-report.php:29
+#: includes/niwoosc-order-report.php:25
+msgid "Last 10 days"
+msgstr "Senaste 10 dagarna"
+
+#: includes/niwoosc-commission-report.php:30
+#: includes/niwoosc-order-report.php:26
+msgid "Last 30 days"
+msgstr "De senaste 30 dagarna"
+
+#: includes/niwoosc-commission-report.php:31
+#: includes/niwoosc-order-report.php:27
+msgid "Last 60 days"
+msgstr "De senaste 60 dagarna"
+
+#: includes/niwoosc-commission-report.php:32
+#: includes/niwoosc-order-report.php:28
+msgid "This year"
+msgstr "Det här året"
+
+#: includes/niwoosc-commission-report.php:43
+#: includes/niwoosc-order-report.php:37 includes/niwoosc-user-role.php:22
+msgid "Search"
+msgstr "Sök"
+
+#: includes/niwoosc-commission-report.php:229
+msgid "Billing First Name"
+msgstr "Fakturering Förnamn"
+
+#: includes/niwoosc-commission-report.php:230
+msgid "Billing Last Name"
+msgstr "Fakturering efternamn"
+
+#: includes/niwoosc-commission-report.php:231
+msgid "Billing Email"
+msgstr "Fakturerings-e-post"
+
+#: includes/niwoosc-commission-report.php:232
+#: includes/niwoosc-order-report.php:212
+msgid "Order Total"
+msgstr "ordersumma"
+
+#: includes/niwoosc-commission-report.php:233
+#: includes/niwoosc-order-report.php:214 includes/niwoosc-user-role.php:83
+msgid "Commission"
+msgstr "Provision"
+
+#: includes/niwoosc-core.php:97 includes/niwoosc-core.php:98
+msgid "Sales Commission"
+msgstr "Försäljningskommission"
+
+#: includes/niwoosc-core.php:106 includes/niwoosc-core.php:107
+msgid "Dashboard"
+msgstr "instrumentbräda"
+
+#: includes/niwoosc-core.php:114 includes/niwoosc-core.php:115
+msgid "Order Report"
+msgstr "Beställningsrapport"
+
+#: includes/niwoosc-core.php:132 includes/niwoosc-core.php:133
+#: includes/niwoosc-user-role.php:81
+msgid "User Role"
+msgstr "Användarroll"
+
+#: includes/niwoosc-dashboard.php:91
+msgid "Last Orders Received"
+msgstr "Senaste beställningar mottagna"
+
+#: includes/niwoosc-dashboard.php:105
+msgid "Today Orders Received"
+msgstr "Idag mottagna beställningar"
+
+#: includes/niwoosc-dashboard.php:110
+msgid "Completed Orders"
+msgstr "Slutförda beställningar"
+
+#: includes/niwoosc-dashboard.php:119
+msgid "Today registered Customer"
+msgstr "Idag registrerad kund"
+
+#: includes/niwoosc-dashboard.php:133
+msgid "Today GUEST Customer"
+msgstr "Idag GÄSTKUND"
+
+#: includes/niwoosc-dashboard.php:291
+msgid "year"
+msgstr "år"
+
+#: includes/niwoosc-dashboard.php:292
+msgid "month"
+msgstr "månad"
+
+#: includes/niwoosc-dashboard.php:293
+msgid "week"
+msgstr "vecka"
+
+#: includes/niwoosc-dashboard.php:294
+msgid "day"
+msgstr "dag"
+
+#: includes/niwoosc-dashboard.php:295
+msgid "hour"
+msgstr "timme"
+
+#: includes/niwoosc-dashboard.php:296
+msgid "minute"
+msgstr "minut"
+
+#: includes/niwoosc-dashboard.php:297
+msgid "second"
+msgstr "andra"
+
+#: includes/niwoosc-dashboard.php:308
+msgid " ago"
+msgstr "sedan"
+
+#: includes/niwoosc-dashboard.php:308
+msgid "just now"
+msgstr "precis nu"
+
+#: includes/niwoosc-function.php:103
+msgid "Percentage"
+msgstr "Procentsats"
+
+#: includes/niwoosc-function.php:104
+msgid "Fixed"
+msgstr "Fixed"
+
+#: includes/niwoosc-order-report.php:14
+msgid "Search Order Report"
+msgstr "Sök orderrapport"
+
+#: includes/niwoosc-order-report.php:100
+msgid "no order found"
+msgstr "ingen order hittades"
+
+#: includes/niwoosc-order-report.php:196
+msgid "#ID"
+msgstr "#ID"
+
+#: includes/niwoosc-order-report.php:197
+msgid "Date"
+msgstr "Datum"
+
+#: includes/niwoosc-order-report.php:198
+msgid "First Name"
+msgstr "Förnamn"
+
+#: includes/niwoosc-order-report.php:199
+msgid "Email"
+msgstr "E-post"
+
+#: includes/niwoosc-order-report.php:200
+msgid "Status"
+msgstr "Status"
+
+#: includes/niwoosc-order-report.php:202
+msgid "Payment Method"
+msgstr "Betalningsmetod"
+
+#: includes/niwoosc-order-report.php:203
+msgid "Country"
+msgstr "Land"
+
+#: includes/niwoosc-order-report.php:205
+msgid "Currency"
+msgstr "Valuta"
+
+#: includes/niwoosc-order-report.php:207
+msgid "Cart Discount"
+msgstr "Kundvagn rabatt"
+
+#: includes/niwoosc-order-report.php:208
+msgid "Cart Discount Tax"
+msgstr "Kundrabatt skatt"
+
+#: includes/niwoosc-order-report.php:209
+msgid "Order Shipping"
+msgstr "Beställ frakt"
+
+#: includes/niwoosc-order-report.php:210
+msgid "Order Shipping Tax"
+msgstr "Beställ fraktavgift"
+
+#: includes/niwoosc-order-report.php:211
+msgid "Order Tax"
+msgstr "Beställ skatt"
+
+#: includes/niwoosc-order-report.php:217 includes/niwoosc-user-role.php:82
+msgid "Mode"
+msgstr "Läge"
+
+#: includes/niwoosc-order-report.php:218
+msgid "Commission Total"
+msgstr "Provision totalt"
+
+#: includes/niwoosc-user-role.php:73
+msgid "Save"
+msgstr "Spara"
+
+#. Name of the plugin
+msgid "Ni Sales Commission For WooCommerce"
+msgstr "Ni Sales Commission For WooCommerce"
+
+#. Description of the plugin
+msgid ""
+"Ni Sales Commission For WooCommerce plug-in provides the option to give the "
+"commission on sales order."
+msgstr ""
+"Ni Sales Commission For WooCommerce plug-in ger möjlighet att ge provision "
+"på försäljningsorder."
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/ni-woo-sales-commission/"
+msgstr "https://wordpress.org/plugins/ni-woo-sales-commission/"
+
+#. Author of the plugin
+msgid "anzia"
+msgstr "anzia"
+
+#. Author URI of the plugin
+msgid "http://naziinfotech.com/"
+msgstr "http://naziinfotech.com/"
